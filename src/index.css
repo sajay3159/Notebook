@@ -1,0 +1,11 @@
+/* * {
+  background-color: #bdbebe;
+  color: black;
+} */
+
+.widt {
+  width: 100%;
+  max-width: 200vh;
+  height: 100%;
+  max-height: 500vh;
+}
